@@ -1,4 +1,0 @@
-﻿  lab3.cpp
-C:\Users\sofya\OneDrive\Рабочий стол\Лаба 3 аокг\Лаба 3 аокг\lab3.cpp(105,18): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
-C:\Users\sofya\OneDrive\Рабочий стол\Лаба 3 аокг\Лаба 3 аокг\lab3.cpp(115,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
-  Лаба 3 аокг.vcxproj -> C:\Users\sofya\OneDrive\Рабочий стол\Лаба 3 аокг\Лаба 3 аокг\Debug\Лаба 3 аокг.exe
