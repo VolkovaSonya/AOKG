@@ -1,24 +1,2 @@
-﻿  Camera.cpp
-C:\Users\sofya\OneDrive\Документы\GitHub\AOKG\Лаба 3 аокг\Camera.cpp(74,50): warning C4244: =: преобразование "GLdouble" в "T", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\sofya\OneDrive\Документы\GitHub\AOKG\Лаба 3 аокг\Camera.cpp(75,23): warning C4244: =: преобразование "GLdouble" в "T", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-C:\Users\sofya\OneDrive\Документы\GitHub\AOKG\Лаба 3 аокг\Camera.cpp(76,50): warning C4244: =: преобразование "GLdouble" в "T", возможна потеря данных
-          with
-          [
-              T=float
-          ]
-  Camera2.cpp
-C:\Users\sofya\OneDrive\Документы\GitHub\AOKG\Лаба 3 аокг\Camera2.cpp(29,19): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
-C:\Users\sofya\OneDrive\Документы\GitHub\AOKG\Лаба 3 аокг\Camera2.cpp(45,37): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-C:\Users\sofya\OneDrive\Документы\GitHub\AOKG\Лаба 3 аокг\Camera2.cpp(46,38): warning C4244: =: преобразование "int" в "float", возможна потеря данных
-  GraphicObject.cpp
-  lab3.cpp
-  Создание кода...
+﻿  lab3.cpp
   Лаба 3 аокг.vcxproj -> C:\Users\sofya\OneDrive\Документы\GitHub\AOKG\Лаба 3 аокг\Debug\Лаба 3 аокг.exe
